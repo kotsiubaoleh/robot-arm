@@ -1,19 +1,4 @@
-/*
- * File generated with Blender 2.58 Exporter
- * https://github.com/mrdoob/three.js/tree/master/utils/exporters/blender/
- *
- * vertices: 5965
- * faces: 5765
- * normals: 0
- * uvs: 0
- * colors: 0
- * materials: 2
- * edges: 0
- * morphTargets: 0
- *
- */
-
-var model = {
+{
 
     "version" : 2,
 
@@ -23,12 +8,11 @@ var model = {
 	"DbgColor" : 15658734,
 	"DbgIndex" : 0,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -36,12 +20,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_0",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.800000011920929, 0.800000011920929, 0.15686275000665706],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -49,12 +32,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -62,12 +44,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -75,12 +56,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_0",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.800000011920929, 0.800000011920929, 0.15686275000665706],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -88,12 +68,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -101,12 +80,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -114,12 +92,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_0",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.800000011920929, 0.800000011920929, 0.15686275000665706],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -127,12 +104,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -140,12 +116,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_0",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.800000011920929, 0.800000011920929, 0.15686275000665706],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -153,12 +128,11 @@ var model = {
 	"DbgColor" : 238,
 	"DbgIndex" : 3,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -166,12 +140,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_0",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.800000011920929, 0.800000011920929, 0.15686275000665706],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -179,12 +152,11 @@ var model = {
 	"DbgColor" : 238,
 	"DbgIndex" : 3,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -192,12 +164,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -205,12 +176,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_0",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.800000011920929, 0.800000011920929, 0.15686275000665706],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -218,12 +188,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -231,12 +200,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_0",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.800000011920929, 0.800000011920929, 0.15686275000665706],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -244,12 +212,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -257,12 +224,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -270,12 +236,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -283,12 +248,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -296,12 +260,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -309,12 +272,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -322,12 +284,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -335,12 +296,10 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
-	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -348,12 +307,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_1",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.18196078810037353, 0.18196078810037353, 0.18196078810037353],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -361,12 +319,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_0",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.800000011920929, 0.800000011920929, 0.15686275000665706],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -374,12 +331,11 @@ var model = {
 	"DbgColor" : 15597568,
 	"DbgIndex" : 1,
 	"DbgName" : "material_0",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.800000011920929, 0.800000011920929, 0.15686275000665706],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	},
 
@@ -387,12 +343,11 @@ var model = {
 	"DbgColor" : 60928,
 	"DbgIndex" : 2,
 	"DbgName" : "material_2",
-	"colorAmbient" : [0.0, 0.0, 0.0],
 	"colorDiffuse" : [0.800000011920929, 0.800000011920929, 0.800000011920929],
 	"colorSpecular" : [0.5, 0.5, 0.5],
 	"shading" : "Lambert",
 	"specularCoef" : 50,
-	"transparency" : 1.0,
+	"opacity" : 1.0,
 	"vertexColors" : false
 	}],
 
@@ -411,7 +366,4 @@ var model = {
     "edges" : []
 
 
-};
-
-postMessage( model );
-close();
+}
