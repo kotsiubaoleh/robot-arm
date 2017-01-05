@@ -38,6 +38,7 @@ function init() {
   viewportWidth = viewportHeight * aspect;
   camera = new THREE.OrthographicCamera( viewportWidth / - 2, viewportWidth / 2, viewportHeight / 2, viewportHeight / - 2, 1, 15000 );
   camera.position.z =  5000;
+  camera.position.y = 40;
 
   camera.lookAt(0,200,0);
 
@@ -51,9 +52,13 @@ function init() {
   // scene.add( light );
 
   arm = new Arm([
-    {length: 20},
-    {length: 20},
-    {length: 20}]);
+    {length: 10, maxAngle: Math.PI/2, minAngle: -Math.PI/2},
+    {length: 10, maxAngle: Math.PI/2, minAngle: -Math.PI/2},
+    {length: 10, maxAngle: Math.PI/2, minAngle: -Math.PI/2},
+    {length: 10, maxAngle: Math.PI/2, minAngle: -Math.PI/2},
+    {length: 10, maxAngle: Math.PI/2, minAngle: -Math.PI/2},
+    {length: 10, maxAngle: Math.PI/2, minAngle: -Math.PI/2}
+    ]);
 
   arm.onChanged = onArmUpdate;
 
@@ -216,6 +221,8 @@ function onMouseMove(event) {
   // segments.forEach(function (segment) {
   //   segment.rotation.z = event.clientX / window.innerWidth  * 2 * Math.PI;
   // })
+  // var to = screenToScene(event.clientX, event.clientY);
+  // arm.moveTo(to.x, to.y);
 }
 
 function onMouseDown(event) {
